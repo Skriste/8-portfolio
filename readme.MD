@@ -9,7 +9,7 @@ _Student website project_
 
 This project is for educational porposes only!
 
-Site published at: 
+Site published at: https://skriste.github.io/8-portfolio/
 
 Design: https://shreethemes.in/cristino/layouts/index.html
 
