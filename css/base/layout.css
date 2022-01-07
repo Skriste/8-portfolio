@@ -1,0 +1,14 @@
+.container {
+    display: inline-block;
+    width: 100%;
+    padding: 60px 20px;
+}
+
+.container > .row {
+    display: inline-block;
+    width: 100%;
+}
+
+.container > .row + .row {
+    margin-top: 20px;
+}
